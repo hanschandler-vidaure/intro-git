@@ -2,7 +2,7 @@
 My name is: Hans.
 
 ## Food
-My favorite food is: Pad Thai.
+My favorite food is: Sisig.
 
 ## 
 My hobbies are: video games, listening to music, basketball, drawing, poems.
